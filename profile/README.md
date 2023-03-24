@@ -10,7 +10,7 @@ insights for crop planning and help them make more informed decisions.
 Our platform provides predictive analytics to farmers, helping them decide which crops to grow based on weather forecasts and estimates the
 market prices. <br>
 
-[Join us]( https://discord.gg/XR98BYpBz) and contribute to making farming smarter and more sustainable!
+[Join us]( https://discord.gg/XR9BYpBz) and contribute to making farming smarter and more sustainable!
 
 The FarmInsight platform consists of several repositories, each with a specific purpose:
 
@@ -35,9 +35,6 @@ We welcome contributions from developers, data analysts, and agricultural expert
 repositories, please fork the repository, make your changes, and submit a pull request. 
 
 ## Contact:
-If you have any questions, feedback or would like to contact us, please join the [Discord Server](https://discord.gg/XR98BYpBz).
+If you have any questions, feedback or would like to contact us, please join the [Discord Server]( https://discord.gg/XR9BYpBz).
 
 Thank you for your interest in FarmInsight! We hope our platform will help farmers make more informed decisions and improve their crop yields.
-
-
-
